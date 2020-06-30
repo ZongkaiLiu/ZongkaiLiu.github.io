@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      Learning quantum optics with Qutip 				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
+subtitle:   Hello Qutip #副标题
 date:       2020-06-28 				# 时间
 author:     Lzk 						# 作者
 header-img: img/tag-bg-o.jpg 	#这篇文章标题背景图片
