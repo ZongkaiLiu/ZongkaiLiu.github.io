@@ -16,4 +16,4 @@ The parameters increase exponentially when we describe a many body system. The a
 The wavefunction, or density matrix can be represented by RMB with added ancillary layer to describe the environment.
 
 ## Training
-variational Monte Carlo scheme is used to minimize the cost function which expresses the difference between the neural network and the true quantum state.
+Variational Monte Carlo scheme is used to minimize the cost function which expresses the difference between the neural network and the true quantum state.
