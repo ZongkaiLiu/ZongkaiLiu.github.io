@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      open system machine learning 				# 标题 
-subtitle:   four teams arrive the similar solutions to the open system problems #副标题
+title:      Open system machine learning 				# 标题 
+subtitle:   Four teams arrive the similar solutions to the open system problems #副标题
 date:       2020-06-30 				# 时间
 author:     Lzk 						# 作者
 header-img: img/post-bg-miui6.jpg 	#这篇文章标题背景图片
