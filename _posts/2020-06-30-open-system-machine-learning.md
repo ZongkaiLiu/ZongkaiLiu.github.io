@@ -13,7 +13,7 @@ tags:								#标签
 
 The parameters increase exponentially when we describe a many body system. The attraction of a neural network is that it can potentially approximate the wave function, or density matrix, with a lot less information.
 
-The wavefunction, or density matrix can be represented by RMB. There are three teams describe the environment by adding another layer (“ancillary” layer) to the RBM.
+The wavefunction, or density matrix can be represented by RMB with added ancillary layer to describe the environment.
 
 ## Training
 variational Monte Carlo scheme is used to minimize the cost function which expresses the difference between the neural network and the true quantum state.
